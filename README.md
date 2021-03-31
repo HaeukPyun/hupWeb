@@ -1,2 +1,2 @@
 # hupWeb
-exercise
+FOR : CN_ADA download page
