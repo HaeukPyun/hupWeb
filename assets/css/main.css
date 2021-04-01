@@ -828,10 +828,10 @@ a:hover {
         }
 
         100% {
-            -moz-transform: translate3d(-750px, 0, 0);
-            -webkit-transform: translate3d(-750px, 0, 0);
-            -ms-transform: translate3d(-750px, 0, 0);
-            transform: translate3d(-750px, 0, 0);
+            -moz-transform: translate3d(-1280px, 0, 0);
+            -webkit-transform: translate3d(-1280px, 0, 0);
+            -ms-transform: translate3d(-1280px, 0, 0);
+            transform: translate3d(-1280px, 0, 0);
         }
 
     }
@@ -845,10 +845,10 @@ a:hover {
         }
 
         100% {
-            -moz-transform: translate3d(-750px, 0, 0);
-            -webkit-transform: translate3d(-750px, 0, 0);
-            -ms-transform: translate3d(-750px, 0, 0);
-            transform: translate3d(-750px, 0, 0);
+            -moz-transform: translate3d(-1280px, 0, 0);
+            -webkit-transform: translate3d(-1280px, 0, 0);
+            -ms-transform: translate3d(-1280px, 0, 0);
+            transform: translate3d(-1280px, 0, 0);
         }
     }
 
@@ -861,10 +861,10 @@ a:hover {
         }
 
         100% {
-            -moz-transform: translate3d(-750px, 0, 0);
-            -webkit-transform: translate3d(-750px, 0, 0);
-            -ms-transform: translate3d(-750px, 0, 0);
-            transform: translate3d(-750px, 0, 0);
+            -moz-transform: translate3d(-1280px, 0, 0);
+            -webkit-transform: translate3d(-1280px, 0, 0);
+            -ms-transform: translate3d(-1280px, 0, 0);
+            transform: translate3d(-1280px, 0, 0);
         }
     }
 
@@ -877,15 +877,15 @@ a:hover {
         }
 
         100% {
-            -moz-transform: translate3d(-750px, 0, 0);
-            -webkit-transform: translate3d(-750px, 0, 0);
-            -ms-transform: translate3d(-750px, 0, 0);
-            transform: translate3d(-750px, 0, 0);
+            -moz-transform: translate3d(-1280px, 0, 0);
+            -webkit-transform: translate3d(-1280px, 0, 0);
+            -ms-transform: translate3d(-1280px, 0, 0);
+            transform: translate3d(-1280px, 0, 0);
         }
     }
 
     #bg {
-        background-size: 750px auto;
+        background-size: 1280px auto;
         width: 2250px;
     }
 }
